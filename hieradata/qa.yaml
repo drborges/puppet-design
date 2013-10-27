@@ -1,0 +1,4 @@
+amp::profile::app::secret_key: "le-qa-secret-key"
+
+amp::profile::db::username: "le-qa-username"
+amp::profile::db::password: "le-qa-password"

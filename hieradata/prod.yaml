@@ -1,0 +1,4 @@
+amp::profile::app::secret_key: "le-prod-secret-key"
+
+amp::profile::db::username: "le-prod-username"
+amp::profile::db::password: "le-prod-password"
