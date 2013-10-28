@@ -1,0 +1,16 @@
+FORGE
+  remote: http://forge.puppetlabs.com
+  specs:
+    puppetlabs/stdlib (4.1.0)
+
+GIT
+  remote: https://github.com/drborges/drborges-amp.git
+  ref: master
+  sha: a5c839cc8f8f30e4d8904fe6973917ebcefa80ee
+  specs:
+    amp (0.0.1)
+      puppetlabs/stdlib (>= 4.1.0)
+
+DEPENDENCIES
+  amp (>= 0)
+
