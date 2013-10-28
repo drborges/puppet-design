@@ -2,7 +2,7 @@
 :backends:
   - yaml
 :yaml:
-  :datadir: './hieradata'
+  :datadir: '%{::confdir}/hieradata'
 :hierarchy:
   - '%{::role}'
 :logger: console
